@@ -1,5 +1,5 @@
 {
-  "name": "mysql",
+  "name": "crud_mysql_express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
